@@ -385,8 +385,8 @@ github.com/qri-io/starlib v0.4.2-0.20200213133954-ff2e8cd5ef8d/go.mod h1:7DPO4do
 github.com/rancher/lasso v0.0.0-20210616224652-fc3ebd901c08/go.mod h1:9qZd/S8DqWzfKtjKGgSoHqGEByYmUE3qRaBaaAHwfEM=
 github.com/rancher/lasso v0.0.0-20240430201833-6f3def65ffc5 h1:6K4RhfmCy7uxaw9OzCljNLfFcgD/q7SeF+/2gCQ3Tvw=
 github.com/rancher/lasso v0.0.0-20240430201833-6f3def65ffc5/go.mod h1:7WkdfPEvWAdnHVioMUkhpZkshJzjDY62ocHVhcbw89M=
-github.com/rancher/wrangler v0.8.8 h1:3EEQmfUqZ/UG4hERHhihB+Q2F1s/W4CmfsPmXv17wS8=
-github.com/rancher/wrangler v0.8.8/go.mod h1:dKEaHNB4izxmPUtpq1Hvr3z3Oh+9k5pCZyFO9sUhlaY=
+github.com/rancher/wrangler v0.8.11 h1:ubWaJgwt9FQdu5ZmfWyqnIabnJ+GkEAow5KXvX33vfo=
+github.com/rancher/wrangler v0.8.11/go.mod h1:Lte9WjPtGYxYacIWeiS9qawvu2R4NujFU9xuXWJvc/0=
 github.com/rancher/wrangler-cli v0.0.0-20220624114648-479c5692ba22 h1:ADMwgJyVwmLXJBSm/nNobB1XGSmFCTA+TY/otxgIPu4=
 github.com/rancher/wrangler-cli v0.0.0-20220624114648-479c5692ba22/go.mod h1:vyO9SU60oplNFa5ZqoEAFWmYKgj2F6remdy8p6H0SgI=
 github.com/rancher/wrangler/v3 v3.0.0-rc2 h1:XGSPPp6GXELqlLvwJp5MsdqyCPu6SCA4UKJ7rQJzE40=
